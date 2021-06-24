@@ -1,0 +1,33 @@
+.item-friend {
+  text-align: center;
+  list-style-type: none;
+  border: 3px solid olive;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 15px;
+}
+.status {
+  display: block;
+}
+
+.friend-list {
+  display: flex;
+  font-family: cursive;
+}
+
+.avatar-friend {
+  margin: 0 auto;
+  width: 100px;
+}
+
+.name-friend {
+  text-align: center;
+}
+
+.online {
+  color: green;
+}
+
+.offline {
+  color: red;
+}
