@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/socialNetProfile/static/css/main.5cf3ff20.chunk.css",
+    "main.js": "/socialNetProfile/static/js/main.c6d3a73c.chunk.js",
+    "main.js.map": "/socialNetProfile/static/js/main.c6d3a73c.chunk.js.map",
+    "runtime-main.js": "/socialNetProfile/static/js/runtime-main.a8b76f11.js",
+    "runtime-main.js.map": "/socialNetProfile/static/js/runtime-main.a8b76f11.js.map",
+    "static/js/2.0410edcc.chunk.js": "/socialNetProfile/static/js/2.0410edcc.chunk.js",
+    "static/js/2.0410edcc.chunk.js.map": "/socialNetProfile/static/js/2.0410edcc.chunk.js.map",
+    "index.html": "/socialNetProfile/index.html",
+    "static/css/main.5cf3ff20.chunk.css.map": "/socialNetProfile/static/css/main.5cf3ff20.chunk.css.map",
+    "static/js/2.0410edcc.chunk.js.LICENSE.txt": "/socialNetProfile/static/js/2.0410edcc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8b76f11.js",
+    "static/js/2.0410edcc.chunk.js",
+    "static/css/main.5cf3ff20.chunk.css",
+    "static/js/main.c6d3a73c.chunk.js"
+  ]
+}
